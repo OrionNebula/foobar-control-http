@@ -1,5 +1,5 @@
 {
-  "name": "foobar2000-control",
+  "name": "foobar2000-remote",
   "version": "1.0.0",
   "description": "Control foobar2000 from Node.js using 'foo_httpcontrol' and 'ajquery'.",
   "main": "dist/index",

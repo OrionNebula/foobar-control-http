@@ -1,11 +1,11 @@
-# foobar2000-control
+# foobar2000-remote
 
 Control [foobar2000](https://www.foobar2000.org/) from Node.js using [`foo_httpcontrol` and `ajquery`](https://bitbucket.org/oblikoamorale/foo_httpcontrol/downloads/).
 
 ## Usage
 
 ```ts
-import { FoobarControl } from 'foobar2000-control'
+import { FoobarControl } from 'foobar2000-remote'
 
 const foobar = new FoobarControl()
 foobar.getStatus().then(status => /* do something */)
