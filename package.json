@@ -1,5 +1,5 @@
 {
-  "name": "foobar2000-remote",
+  "name": "foobar-control-http",
   "version": "1.0.0",
   "description": "Control foobar2000 from Node.js using 'foo_httpcontrol' and 'ajquery'.",
   "main": "dist/index",
@@ -14,6 +14,9 @@
   },
   "keywords": [
     "foobar2000",
+    "foobar",
+    "foo_httpcontrol",
+    "ajquery",
     "media",
     "music"
   ],
@@ -38,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OrionNebula/foobar2000-control.git"
+    "url": "git+https://github.com/OrionNebula/foobar-control-http.git"
   },
   "bugs": {
-    "url": "https://github.com/OrionNebula/foobar2000-control/issues"
+    "url": "https://github.com/OrionNebula/foobar-control-http/issues"
   },
-  "homepage": "https://github.com/OrionNebula/foobar2000-control#readme"
+  "homepage": "https://github.com/OrionNebula/foobar-control-http#readme"
 }

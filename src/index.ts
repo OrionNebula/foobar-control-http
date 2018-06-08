@@ -1,5 +1,5 @@
 /**
- * @module foobar2000-remote
+ * @module foobar-control-http
  */
 
 import * as request from 'request'
